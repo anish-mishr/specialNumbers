@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class SpecialNumber {
 /*	A number is said to be special number when the 

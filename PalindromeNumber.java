@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class PalindromeNumber {
 /* Palindrome Number is a number that remains 

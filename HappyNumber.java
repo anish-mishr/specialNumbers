@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class HappyNumber {
 /*AHappy Number is any positive number greater than zero(positive integer) is called happy number,

@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class HarshadNumber {
 /*	Harshad Number is number which is divisible by the sum of its digits.

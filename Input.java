@@ -1,5 +1,9 @@
 package specialNumbers;
 import java.util.Scanner;
+/*
+ * @author Anish
+ *
+ */
 
 public class Input {
 	public static int getNumber() {   // Static Method
