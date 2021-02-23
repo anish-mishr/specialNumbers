@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class PrimeNumber {
 /* Prime Number is a Number having at most (Maximum) 2 factors or Multiples

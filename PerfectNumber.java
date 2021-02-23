@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class PerfectNumber {
 /* Perfect Number is is a positive integer that is equal to the sum of its positive divisors,

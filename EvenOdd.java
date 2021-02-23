@@ -1,4 +1,8 @@
 package specialNumbers;
+/*
+ * @author Anish
+ *
+ */
 
 public class EvenOdd {
 // This Program checks if a number is EVEN or ODD
