@@ -22,6 +22,7 @@ public class HarshadNumber {
 		else 
 			System.out.println(">> "+ num +" is NOT Harshad Number");		//IF NO prints NOT Harshad Number
 	}
+	// MAIN METHOD
 	public static void main(String[] args) {
 //		Input is another public class having getNumber STATIC Method and a return type of INTEGER
 		
