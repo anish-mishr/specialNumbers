@@ -11,13 +11,10 @@ public class PalindromeNumber {
 */ 
 	
 	public static void palindromeNumber(int num) {  //Static Method
-		int n = num, rem, rev=0;
 		
-		while(n>0) {
-			rem = n%10;		// gets remainder by 10
-			rev = rev*10 + rem;  // Makes Reverse of a number
-			n = n/10; 		// Updates the number with quotient with 10
-		}
+		// calls static method reverseNumber of Input class 
+		int rev =Input.reverseNumber(num); //rev stores reversed value of number
+				
 		if(rev == num)  // Check if Original Number is same as reversed Number
 			System.out.println(">> "+ num + " is Palindrome Number.");  //IF TRUE prints Palindrome
 		

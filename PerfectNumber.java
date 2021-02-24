@@ -23,6 +23,7 @@ public class PerfectNumber {
 		else
 			System.out.println(">> "+ num +" is NOT a Perfect number");		// IF NOT prints not perfect Number
 	}
+	// MAIN METHOD
 	public static void main(String[] args) {
 //		Input is another public class having getNumber STATIC Method and a return type of INTEGER
 		
